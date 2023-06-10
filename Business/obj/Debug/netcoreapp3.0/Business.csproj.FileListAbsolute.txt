@@ -1,0 +1,15 @@
+C:\Users\Ferit\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.0\Business.deps.json
+C:\Users\Ferit\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.0\Business.dll
+C:\Users\Ferit\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.0\Business.pdb
+C:\Users\Ferit\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.0\DataAccess.dll
+C:\Users\Ferit\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\Ferit\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.0\DataAccess.pdb
+C:\Users\Ferit\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\Ferit\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.0\Business.csproj.AssemblyReference.cache
+C:\Users\Ferit\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferit\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.0\Business.AssemblyInfoInputs.cache
+C:\Users\Ferit\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.0\Business.AssemblyInfo.cs
+C:\Users\Ferit\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Ferit\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.0\Business.csproj.CopyComplete
+C:\Users\Ferit\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.0\Business.dll
+C:\Users\Ferit\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.0\Business.pdb

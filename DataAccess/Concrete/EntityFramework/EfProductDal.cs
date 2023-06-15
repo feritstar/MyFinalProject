@@ -62,6 +62,7 @@ namespace DataAccess.Concrete.EntityFramework
                 productToUpdate.ProductName = entity.ProductName;
                 productToUpdate.UnitPrice = entity.UnitPrice;
                 productToUpdate.UnitsInStock = entity.UnitsInStock;
+                productToUpdate.CategoryId = entity.CategoryId;
                 context.SaveChanges();
             }
         }

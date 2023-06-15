@@ -25,8 +25,11 @@ namespace DataAccess.Concrete.EntityFramework
         {
             using (NorthwindContext context = new NorthwindContext())
             {
-                var deletedEntity = context.Entry(entity);
-                deletedEntity.State = EntityState.Deleted;
+                //var deletedEntity = context.Entry(entity);
+                //deletedEntity.State = EntityState.Deleted;
+                //context.SaveChanges();
+
+                context.Products.Remove(context.Products.SingleOrDefault(p => p.ProductId == entity.ProductId));
                 context.SaveChanges();
             }
         }
@@ -51,8 +54,14 @@ namespace DataAccess.Concrete.EntityFramework
         {
             using (NorthwindContext context = new NorthwindContext())
             {
-                var updatedEntity = context.Entry(entity);
-                updatedEntity.State = EntityState.Modified;
+                //var updatedEntity = context.Entry(entity);
+                //updatedEntity.State = EntityState.Modified;
+                //context.SaveChanges();
+
+                var productToUpdate = context.Products.SingleOrDefault(p => p.ProductId == entity.ProductId);
+                productToUpdate.ProductName = entity.ProductName;
+                productToUpdate.UnitPrice = entity.UnitPrice;
+                productToUpdate.UnitsInStock = entity.UnitsInStock;
                 context.SaveChanges();
             }
         }

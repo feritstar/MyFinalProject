@@ -26,13 +26,25 @@ namespace ConsoleUI
         private static void JoinTest()
         {
             ProductManager productManager = new ProductManager(new EfProductDal());
-            foreach (var product in productManager.GetProductDetails())
+
+            var query = productManager.GetProductDetails();
+
+            if (query.Success)
             {
-                Console.WriteLine(product.ProductId + ", " +
-                                    product.ProductName + ", " +
-                                    product.CategoryName + ", " +
-                                    product.UnitsInStock + "\n");
+                foreach (var product in query.Data)
+                {
+                    Console.WriteLine(product.ProductId + ", " +
+                                        product.ProductName + ", " +
+                                        product.CategoryName + ", " +
+                                        product.UnitsInStock + "\n");
+                }
             }
+            else
+            {
+                Console.WriteLine(query.Message);
+            }
+
+
         }
 
         private static void ShowAllCategories()
@@ -46,7 +58,7 @@ namespace ConsoleUI
 
         private static void ShowByCategory(ProductManager productManager)
         {
-            foreach (var product in productManager.GetAllByCategoryId(2))
+            foreach (var product in productManager.GetAllByCategoryId(2).Data)
             {
                 Console.WriteLine(product.ProductName);
             }
@@ -54,7 +66,7 @@ namespace ConsoleUI
 
         private static void ShowAll(ProductManager productManager)
         {
-            foreach (var product in productManager.GetAll())
+            foreach (var product in productManager.GetAll().Data)
             {
                 Console.WriteLine(product.ProductName);
 
@@ -63,7 +75,7 @@ namespace ConsoleUI
 
         private static void ShowByUnitPrice(ProductManager productManager)
         {
-            foreach (var product in productManager.GetByUnitPrice(10, 130))
+            foreach (var product in productManager.GetByUnitPrice(10, 130).Data)
             {
                 Console.WriteLine(product.ProductName);
             }

@@ -69,3 +69,8 @@ C:\Users\Ferit\source\repos\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.0\Core.p
 C:\Users\Ferit\source\repos\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.0\DataAccess.pdb
 C:\Users\Ferit\source\repos\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.0\Entities.pdb
 C:\Users\Ferit\source\repos\MyFinalProject\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.csproj.CopyComplete
+C:\Users\Ferit\source\repos\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.0\Autofac.dll
+C:\Users\Ferit\source\repos\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Ferit\source\repos\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\Ferit\source\repos\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.0\Castle.Core.dll
+C:\Users\Ferit\source\repos\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.0\FluentValidation.dll

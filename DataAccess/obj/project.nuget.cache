@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MIhvpv+EWh8qg3WtSnuUaD8xySqPuSKGWqD9YbVQrJovS41NBjJhSD1QB3+nD7KJb4Oi7MW7biCA5ZjR9MEOlg==",
+  "dgSpecHash": "TrXo84KYbLGi4kDfMH0bNByaVKDfhJ+93hP4CpQt1NQIAdm6Fb0KfC0yjEFka0+hz/iY39o/YKJ1bB9jP7LGTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ferit\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\Ferit\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\Ferit\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\Ferit\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Ferit\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",

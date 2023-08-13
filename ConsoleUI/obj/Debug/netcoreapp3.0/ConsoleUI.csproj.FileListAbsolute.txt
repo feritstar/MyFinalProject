@@ -133,3 +133,8 @@ D:\MyFinalProject-master\ConsoleUI\bin\Debug\netcoreapp3.0\Entities.pdb
 D:\MyFinalProject-master\ConsoleUI\bin\Debug\netcoreapp3.0\Core.pdb
 D:\MyFinalProject-master\ConsoleUI\obj\Debug\netcoreapp3.0\ConsoleUI.csproj.CopyComplete
 D:\MyFinalProject-master\ConsoleUI\obj\Debug\netcoreapp3.0\ConsoleUI.genruntimeconfig.cache
+C:\Users\Ferit\source\repos\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.0\Autofac.dll
+C:\Users\Ferit\source\repos\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Ferit\source\repos\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\Ferit\source\repos\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.0\Castle.Core.dll
+C:\Users\Ferit\source\repos\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.0\FluentValidation.dll

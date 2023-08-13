@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Business\\Business.csproj": {}
+    "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Business\\Business.csproj": {
+    "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\TAI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Business\\obj\\",
+        "projectPath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\TAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -54,6 +54,10 @@
             "Autofac": {
               "target": "Package",
               "version": "[6.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "Autofac.Extras.DynamicProxy": {
               "target": "Package",
@@ -74,8 +78,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -84,24 +87,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Core\\Core.csproj": {
+    "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\TAI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\TAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -159,8 +162,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -169,24 +171,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\TAI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\TAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -201,11 +203,11 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Core\\Core.csproj"
+              "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -235,8 +237,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -245,24 +246,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\TAI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\TAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -277,8 +278,8 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\TAI\\source\\repos\\feritstar\\MyFinalProject\\Core\\Core.csproj"
+              "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Ferit\\source\\repos\\MyFinalProject\\Core\\Core.csproj"
               }
             }
           }
@@ -304,8 +305,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -314,7 +314,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,3 +8,13 @@ C:\Users\Ferit\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.0\Core.csp
 C:\Users\Ferit\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.0\Core.dll
 C:\Users\Ferit\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.0\Core.pdb
 C:\Users\Ferit\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.0\Core.csproj.AssemblyReference.cache
+D:\MyFinalProject-master\Core\bin\Debug\netcoreapp3.0\Core.deps.json
+D:\MyFinalProject-master\Core\bin\Debug\netcoreapp3.0\Core.dll
+D:\MyFinalProject-master\Core\bin\Debug\netcoreapp3.0\Core.pdb
+D:\MyFinalProject-master\Core\obj\Debug\netcoreapp3.0\Core.csproj.AssemblyReference.cache
+D:\MyFinalProject-master\Core\obj\Debug\netcoreapp3.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFinalProject-master\Core\obj\Debug\netcoreapp3.0\Core.AssemblyInfoInputs.cache
+D:\MyFinalProject-master\Core\obj\Debug\netcoreapp3.0\Core.AssemblyInfo.cs
+D:\MyFinalProject-master\Core\obj\Debug\netcoreapp3.0\Core.csproj.CoreCompileInputs.cache
+D:\MyFinalProject-master\Core\obj\Debug\netcoreapp3.0\Core.dll
+D:\MyFinalProject-master\Core\obj\Debug\netcoreapp3.0\Core.pdb
